@@ -1,8 +1,7 @@
 # General
 .vagrant/
 configs/
-akn/
-k8s-101-master/
+
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.log
