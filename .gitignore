@@ -1,5 +1,6 @@
 # General
 .vagrant/
+akn/helm/
 configs/
 k8s-101-master/
 
