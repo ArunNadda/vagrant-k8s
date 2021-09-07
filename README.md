@@ -3,6 +3,8 @@
 
 ## Documentation
 
+To learn k8s, please follow learn guide at [akn/](https://github.com/ArunNadda/vagrant-k8s/tree/main/akn)
+
 ## Prerequisites
 
 1. Working Vagrant setup
